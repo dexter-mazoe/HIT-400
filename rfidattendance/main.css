@@ -1,0 +1,21 @@
+body{
+    
+    padding-top: 50px;
+}
+
+#navbar{
+    background-color: crimson;
+}
+
+#background-image{
+    position: relative;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: 100% 700px;
+    background-position: top center;
+    background-attachment: fixed;
+    background-image: url(../images/background.jpg);
+}
